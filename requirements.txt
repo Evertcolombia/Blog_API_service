@@ -1,0 +1,6 @@
+Django==3.1.8
+djangorestframework==3.12.2
+psycopg2-binary>=2.8
+
+httpie==2.4.0
+flake8>=3.8.0,<3.8.3
